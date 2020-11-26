@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35506616222",
+    "firebase_url": "https://vesol-ke.firebaseio.com",
+    "project_id": "vesol-ke",
+    "storage_bucket": "vesol-ke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35506616222:android:cf97efbc899c0bd5a6888f",
+        "android_client_info": {
+          "package_name": "com.vesol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35506616222-l6d1n71o26i9pltif1d442q7ngc4odhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiojfS97DWSW3_vuuCLiabMaf0-GuqRaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35506616222-l6d1n71o26i9pltif1d442q7ngc4odhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
